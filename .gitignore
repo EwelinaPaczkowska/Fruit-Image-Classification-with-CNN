@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Package/build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# TensorFlow / Keras outputs
+*.keras
+*.h5
+*.hdf5
+saved_model/
+checkpoints/
+logs/
+
+# Generated outputs
+outputs/
+results/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Dataset and local image data
+dataset/
+datasets/
+data/
+train/
+test/
+validation/
+*.bmp
+*.tiff
+*.webp
+
+# Environment variables
+.env
+.env.*
