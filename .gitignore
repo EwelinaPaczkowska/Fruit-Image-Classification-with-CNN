@@ -34,7 +34,7 @@ Thumbs.db
 # Logs
 *.log
 
-# TensorFlow / Keras outputs
+# TensorFlow / Keras generated files
 *.keras
 *.h5
 *.hdf5
@@ -47,21 +47,6 @@ outputs/
 results/
 figures/
 plots/
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
-# Dataset and local image data
-dataset/
-datasets/
-data/
-train/
-test/
-validation/
-*.bmp
-*.tiff
-*.webp
 
 # Environment variables
 .env
